@@ -1,0 +1,12 @@
+.deck-container .slide h2 {
+  line-height: 1;
+  border-bottom: 0;
+}
+
+.deck-container .code {
+  font-size: 14px;
+}
+
+.tile img {
+	margin-left: 1em;
+}

@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Anhanguera Educacional</title>
+  <link rel="stylesheet" href="css/deck.core.css">
+  <link rel="stylesheet" href="css/fade.css">
+  <link rel="stylesheet" href="css/swiss.css">
+  <link rel="stylesheet" href="css/deck.status.css">
+  <link rel="stylesheet" href="css/deck.codemirror.css">
+  <link rel="stylesheet" href="css/deck.navigation.css">
+  <link rel="stylesheet" href="css/default.css">
+  <link rel="stylesheet" href="css/guru.css">
+</head>
+<body class="deck-container">
+  <section class="slide">
+    <h1>Você realmente sabe JavaScript?</h1>
+  </section>
+  <section class="slide">
+    <h2>Anhanguera Educacional - Campus Osasco</h2>
+    <img src="img/anhanguera.jpg" height="300">
+    <h3 style="align: center">22/05/2013</h3>
+  </section>
+  <section class="slide tile">
+    <h2>Eu</h2>
+      <h3>Plínio Balduino - desenvolvedor e curioso</h3>
+      <h3>@p_balduino</h3>
+      <img src="img/javascript.png" height="100" align="left">
+      <img src="img/dynjs.png" height="100" align="left">
+      <img src="img/clojure.gif" height="100" align="left">
+      <img src="img/bass.gif" height="100" align="left">
+      <img src="img/guru_sp.png" height="100" align="left">
+      <img src="img/guru_es.png" height="100" align="left">
+      <img src="img/java.png" height="100" align="left">
+      <img src="img/ruby.png" height="100" align="left">
+      <img src="img/lambda.png" height="100" align="left">
+      <img src="img/gusworks.png" height="100" align="left">
+      <img src="img/gustavo.png" height="100" align="left">
+      <img src="img/qconsp.png" height="100" align="left">
+      <img src="img/casa-do-codigo.png" height="100" align="left">
+      <img src="img/imasters.png" height="50" align="left">
+  </section>
+  <section class="slide">
+    <h2>
+  </section>
+  <section class="slide">
+    <h2>Motivação</h2>
+    <img src="img/fnando.png">
+  </section>
+  <section class="slide">
+    <h2>Um pouco de história</h2>
+    <img src="img/brendan_eich.jpg" height="50%">
+    <h3>Criado em 1995 por Brendan Eich</h3>
+    <h3>Submetido ao ECMA em 1996</h3>
+  </section>
+  <section class="slide">
+    <h2>Nos primórdios...</h2>
+    <img src="img/hello.png" height="50%">
+    <h3>Quem nunca usou aqueles scripts prontos nas páginas do Geocities?</h3>
+  </section>
+  <section class="slide">
+      <h2>Nos primórdios...</h2>
+      <img src="img/palmface.jpg" height="50%">
+      <h3>Eu já<br /> /o\</h3>
+  </section>
+  <section class="slide">
+    <h2>Definição</h2>
+    <h3>JavaScript é uma linguagem:</h3>
+    <h3>- Dinâmica</h3>
+    <h3>- Orientada a objetos</h3>
+    <h3>- Prototipada</h3>
+    <h3>- Funcional</h3>
+    <h3>- Muito mais legal do que parece</h3>
+  </section>
+  <section class="slide">
+    <h2>Definição</h2>
+    <img src="img/origins.png" height="80%">
+  </section>
+  <section class="slide">
+    <h2>Dinâmica</h2>
+    <h3>Como o Ruby</h3>
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;">var x = 1;
+
+var y = "oh yeah!";
+
+eval("alert('meh');");
+    </div>
+  </section>
+  <section class="slide">
+    <h2>Orientada a objetos</h2>
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;">// JavaScript
+
+function Carro(){
+
+  this.buzinar = function(){
+    return "biii!"
+  };
+
+  this.andar = function(){
+    return "andando"
+  };
+}
+
+var gol = new Carro();
+
+gol.andar();
+    </div>
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;">// Java
+
+public class Carro {
+
+  public String buzinar() {
+    return "biii!";
+  }
+
+  public String andar() {
+    return "andando";
+  }
+}
+
+Carro gol = new Carro;
+
+gol.andar();
+    </div>
+  </section>
+  <section class="slide">
+    <h2>Prototipada</h2>
+    <h3>Ao invés de herança, aqui é usada prototipação</h3>
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;"> // vamos usar a mesma classe Carro
+
+var gol = new Carro();
+
+var veloster = new Carro();
+
+
+console.log(gol.portas); // gol não tem porta
+
+console.log(veloster.portas); // veloster também não tem
+
+
+Carro.prototype.portas = 4;
+
+console.log(gol.portas); // gol com quatro portas
+
+console.log(veloster.portas); // veloster com quatro portas?
+
+
+veloster.portas = 3; // agora sim
+
+console.log(veloster.portas); // veloster tem três portas
+
+console.log(gol.portas); // gol continua com quatro portas
+    </div>
+  </section>
+  <section class="slide">
+    <h2>Funcional</h2>
+    <h3>Minha parte preferida</h3>
+    <blockquote cite="http://javascript.crockford.com/javascript.html">
+    <p>JS is Lisp in C's Clothing</p>
+    <p><cite>Douglas Crockford</cite></p>
+    </blockquote>
+    <img src="img/wolf.jpg">
+  </section>
+  <section class="slide">
+    <h2>Funcional</h2>
+    <h3>Você pode, e deve, passar funções como parâmetros</h3>
+    <div id="code" class="code" name="code" mode="scheme" style="display: none;">; Scheme \o/
+
+(define calculate (lambda (op v1 v2) (op v1 v2)))
+
+(define sum (lambda (a b) (+ a b)))
+
+(define mult (lambda (x y) (* x y)))
+
+(calculate sum 2 3) ; retorna 5
+
+(calculate mult 2 3) ; retorna 6
+    </div>
+
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;">// JavaScript
+
+function calculate(op, v1, v2) {
+  return op(v1, v2);
+}
+
+function sum(a, b){
+  return a + b;
+}
+
+function mult(x, y){
+  return x * y;
+}
+
+calculate(sum, 2, 3); // retorna 5
+
+calculate(mult, 2, 3); // retorna 6
+</div>
+  </section>
+  <section class="slide">
+    <h2>Funcional</h2>
+    <h3>jQuery usa isso O TEMPO INTEIRO</h3>
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;">
+$(function(){
+  console.log("DOM loaded")
+});
+
+
+$(".clickable").click(function(){
+  console.log(this + " was clicked")
+});
+    </div>
+  </section>
+  <section class="slide">
+    <h2>Funcional</h2>
+    <h3>Também é permitido que uma função retorne outra função</h3>
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;">// Currying
+
+function adder(x){
+  return function(y){
+    return x + y;
+  }
+}
+
+var add_five = adder(5);
+
+add_five(10); // retorna 15
+</div>
+  </section>
+  <section class="slide">
+    <h2>O retorno dos parênteses</h2>
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;">// Para matar as saudades do Lisp
+function adder(x){
+  return function(y){
+    return x + y;
+  }
+}
+
+var add_five = ((adder)(5));
+
+((add_five)(10)); // retorna 15
+    </div>
+  </section>
+
+  <section class="slide">
+    <h2>Tratamento de erros</h2>
+    <h3>Pode pular que é raso</h3>
+<div id="code" class="code" name="code" mode="javascript" style="display: none;">
+try{
+
+  cause_an_error();
+
+} catch(err) {
+
+  console.log(err.description);
+
+};
+
+// imprime 'cause_an_error is not defined'
+</div>
+  </section>
+
+  <section class="slide">
+    <h2>JSON</h2>
+    <h3>JavaScript Object Notation</h3>
+    <h3>É a forma mais simples e rápida de criar ou transmitir objetos JavaScript</h3>
+    <h3>Use JSON ao invés de XML quando usar AJAX e seja feliz</h3>
+    <h3>No Rails é gerado automagicamente usando <tt>objeto.to_json</tt> ou <tt>render :json => object</tt></h3>
+  </section>
+  <section class="slide">
+    <h2>JSON</h2>
+    <img src="img/jason.jpg" height="200">
+    <div id="code" class="code" name="code" mode="javascript" style="display: none;">
+{
+  nome        : "texto",
+  "com espaço": true,
+  lista       : [1, 2, 3, 4],
+  objeto      : {
+      inception   : "dream",
+      outra_lista : [4, 3, 2, 1]
+    }
+}
+    </div>
+  </section>
+  <section class="slide">
+    <h2>JavaScript não é só web</h2>
+    <h3>Ele está em toda parte</h3>
+    <img src="img/cloud.png" width="80%">
+  </section>
+  <section class="slide">
+    <h2>Em sua próxima aplicação...</h2>
+    <h3>Por que não usar uma linguagem realmente poderosa e produtiva?</h3>
+    <img class="slide" src="img/javascript.png" height="60%">
+  </section>
+  <section class="slide">
+    <h2>Perguntas?</h2>
+    <img src="img/gustavo.jpg">
+  </section>
+  <section class="slide">
+    <h2>Referências</h2>
+    <h3>- http://javascript.crockford.com/javascript.html</h3>
+    <h3>- http://en.wikipedia.org/wiki/Javascript</h3>
+    <h3>- http://en.wikipedia.org/wiki/Scheme_(programming_language)</h3>
+    <h3>- http://stackoverflow.com/q/16509</h3>
+    <h3>- http://mitpress.mit.edu/sicp/</h3>
+    <h3>- http://dynjs.org/</h3>
+  </section>
+  <a href="#" class="deck-prev-link" title="Próximo">&#8592;</a>
+  <a href="#" class="deck-next-link" title="Anterior">&#8594;</a>
+<p class="deck-status">
+  <span class="deck-status-current"></span>
+  /
+  <span class="deck-status-total"></span>
+</p>
+</body>
+</html>
+<script type="text/javascript" src="js/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="js/modernizr.custom.js"></script>
+<script type="text/javascript" src="js/deck.core.js"></script>
+<script type="text/javascript" src="js/deck.status.js"></script>
+<script type="text/javascript" src="js/codemirror.js"></script>
+<script type="text/javascript" src="js/javascript.js"></script>
+<script type="text/javascript" src="js/scheme.js"></script>
+<script type="text/javascript" src="js/deck.codemirror.js"></script>
+<script type="text/javascript" src="js/deck.navigation.js"></script>
+<script type="text/javascript">
+ $(function(){$.deck('.slide')});
+</script>
+
