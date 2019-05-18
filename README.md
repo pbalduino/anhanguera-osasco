@@ -9,13 +9,14 @@
 
 **Igor Hercowitz de França** :)
 
- - Plínio Balduino: mostro o que é uma linguagem prototipada
- - Plínio Balduino: e um exemplo em self, que é um dialeto de smalltalk
- - Plínio Balduino: mostro um exemplo de orientação a objetos, que a galera está mais do que careca de saber o que é
- - Plínio Balduino: e que um objeto em JS é um mero bag de campos
- - Plínio Balduino: e mostro um exemplo usando prototipos e OO
- - Plínio Balduino: e mostro um exemplo de código funcional em JS
- - Plínio Balduino: com um equivalente em Scheme
+**Plínio Balduino**
+ - mostro o que é uma linguagem prototipada
+ - e um exemplo em self, que é um dialeto de smalltalk
+ - mostro um exemplo de orientação a objetos, que a galera está mais do que careca de saber o que é
+ - e que um objeto em JS é um mero bag de campos
+ - e mostro um exemplo usando prototipos e OO
+ - e mostro um exemplo de código funcional em JS
+ - com um equivalente em Scheme
  - Igor Hercowitz de França: :D
  - Plínio Balduino: e junto o funcional àquele objeto usado nos exemplos anteriores
  - Igor Hercowitz de França: maneiro :D
