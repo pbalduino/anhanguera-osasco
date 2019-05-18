@@ -2,6 +2,8 @@
 
 #
 
+<br>
+
  **Plínio Balduino**
  - pensei em fazer assim.
  - começo contando muito rapidamente a historia do JS
@@ -13,7 +15,12 @@
 
 <br>
 
+#
+
+<br>
+
 **Plínio Balduino**
+
  - mostro o que é uma linguagem prototipada
  - e um exemplo em self, que é um dialeto de smalltalk
  - mostro um exemplo de orientação a objetos, que a galera está mais do que careca de saber o que é
@@ -46,7 +53,8 @@
 
 #
 
-**Igor Hercowitz de França** boua
+**Igor Hercowitz de França** 
+- boua
 
 #
 
@@ -55,7 +63,8 @@
 - eventos, composites e o cacete
 - será que em meia hora dá ou fica pouco?
 
-**Igor Hercowitz de França** acho que voce poderia fazer um comparativo do mesmo codigo usando prototype, OO e funcional (just for fun)
+**Igor Hercowitz de França** 
+- acho que voce poderia fazer um comparativo do mesmo codigo usando prototype, OO e funcional (just for fun)
 
 **Plínio Balduino** 
 - e como seria isso?
