@@ -1,28 +1,28 @@
  **Ideia original**
 
- - Plínio Balduino: 
-> pensei em fazer assim.
+> Plínio Balduino: 
+pensei em fazer assim.
 
  - Plínio Balduino: 
 começo contando muito rapidamente a historia do JS
 
- Plínio Balduino: e na sequencia a definição do JS: que é uma linguagem prototipada, orientada a objetos e funcional
- Igor Hercowitz de França: :)
- Plínio Balduino: mostro o que é uma linguagem prototipada
- Plínio Balduino: e um exemplo em self, que é um dialeto de smalltalk
- Plínio Balduino: mostro um exemplo de orientação a objetos, que a galera está mais do que careca de saber o que é
- Plínio Balduino: e que um objeto em JS é um mero bag de campos
- Plínio Balduino: e mostro um exemplo usando prototipos e OO
- Plínio Balduino: e mostro um exemplo de código funcional em JS
- Plínio Balduino: com um equivalente em Scheme
+ - Plínio Balduino: e na sequencia a definição do JS: que é uma linguagem prototipada, orientada a objetos e funcional
+ - Igor Hercowitz de França: :)
+ - Plínio Balduino: mostro o que é uma linguagem prototipada
+ - Plínio Balduino: e um exemplo em self, que é um dialeto de smalltalk
+ - Plínio Balduino: mostro um exemplo de orientação a objetos, que a galera está mais do que careca de saber o que é
+ - Plínio Balduino: e que um objeto em JS é um mero bag de campos
+ - Plínio Balduino: e mostro um exemplo usando prototipos e OO
+ - Plínio Balduino: e mostro um exemplo de código funcional em JS
+ - Plínio Balduino: com um equivalente em Scheme
  Igor Hercowitz de França: :D
  Plínio Balduino: e junto o funcional àquele objeto usado nos exemplos anteriores
  Igor Hercowitz de França: maneiro :D
  Igor Hercowitz de França: quero ver essa apresentacao depois :D
  Plínio Balduino: explico high order functions em JavaScript e como isso é importante para quem usa jQuery
  Igor Hercowitz de França: boua
- Plínio Balduino: depois de alguns exemplos, mostro como *tudo* no jQuery usa programação funcional
- Plínio Balduino: eventos, composites e o cacete
+ - Plínio Balduino: depois de alguns exemplos, mostro como *tudo* no jQuery usa programação funcional
+ - Plínio Balduino: eventos, composites e o cacete
  Plínio Balduino: será que em meia hora dá ou fica pouco?
  Igor Hercowitz de França: acho que voce poderia fazer um comparativo do mesmo codigo usando prototype, OO e funcional (just for fun)
  Plínio Balduino: e como seria isso?
