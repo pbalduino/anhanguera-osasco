@@ -10,6 +10,7 @@
  <br>
 
 **Igor Hercowitz de França** :)
+
 <br>
 
 **Plínio Balduino**
@@ -20,7 +21,8 @@
  - e mostro um exemplo usando prototipos e OO
  - e mostro um exemplo de código funcional em JS
  - com um equivalente em Scheme
- <br>
+ 
+<br>
 
 **Igor Hercowitz de França** :D
 
@@ -33,11 +35,9 @@
 
 #
 
-**Igor Hercowitz de França** maneiro :D
-
-#
-
-**Igor Hercowitz de França** quero ver essa apresentacao depois :D
+**Igor Hercowitz de França** 
+- maneiro :D
+- quero ver essa apresentacao depois :D
 
 #
 
@@ -50,26 +50,30 @@
 
 #
 
-**Plínio Balduino** depois de alguns exemplos, mostro como *tudo* no jQuery usa programação funcional
-
-#
-
-**Plínio Balduino** eventos, composites e o cacete
-
-**Plínio Balduino** será que em meia hora dá ou fica pouco?
+**Plínio Balduino** 
+- depois de alguns exemplos, mostro como *tudo* no jQuery usa programação funcional
+- eventos, composites e o cacete
+- será que em meia hora dá ou fica pouco?
 
 **Igor Hercowitz de França** acho que voce poderia fazer um comparativo do mesmo codigo usando prototype, OO e funcional (just for fun)
 
-**Plínio Balduino** e como seria isso?
- - Igor Hercowitz de França** sei la
- - Igor Hercowitz de França** fica a ideia ai :)
- - Plínio Balduino** me ajude a pensar nessa parte
- - Plínio Balduino** seria baca
- - Plínio Balduino** bacana
- - Igor Hercowitz de França** estou justamente pensando
- - Igor Hercowitz de França** oque seria bacana tb:
- - Igor Hercowitz de França** nao sei se daria para demonstrar c um codigo bobo
- - Igor Hercowitz de França** mas mostrar a performance entre dos 3 tipos de codigo
+**Plínio Balduino** 
+- e como seria isso?
+
+**Igor Hercowitz de França** 
+- sei la
+- ica a ideia ai :)
+
+*"Plínio Balduino** 
+- me ajude a pensar nessa parte
+- seria baca
+- bacana
+
+**Igor Hercowitz de França** 
+ - estou justamente pensando
+ - o que seria bacana tb:
+ - nao sei se daria para demonstrar c um codigo bobo
+ - mas mostrar a performance entre dos 3 tipos de codigo
 
 ### Outro diálogo
 
