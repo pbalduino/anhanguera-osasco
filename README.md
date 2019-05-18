@@ -47,15 +47,15 @@ todo o seu código agora é isso:
 2
 retorna 2, certo?
 Sent at 3:27 PM on Friday
-Reinaldo: yep
-Plínio: e a linha abaixo:
+- Reinaldo: yep
+- Plínio: e a linha abaixo:
 (2)
 retorna quanto?
-Reinaldo: 2
-Plínio: ou seja
+- Reinaldo: 2
+- Plínio: ou seja
 (x) retorna o valor de x, ok?
-Reinaldo: ok
-Plínio: isso em lisp ou em js
+- Reinaldo: ok
+- Plínio: isso em lisp ou em js
 tanto faz
 se vc escrever
 (2 + 2)
@@ -64,37 +64,37 @@ beleza
 proximo passo
 2 é um valor, ok?
 nada demais nisso
-Reinaldo: ok
-Plínio: var x = 2;
+- Reinaldo: ok
+- Plínio: var x = 2;
 x retorna 2
 x é um valor
 tambem nada demais nisso
 ok?
-Reinaldo: ok
-Plínio: agora sua cabeça vai doer
-Reinaldo: chalenge acept
-Plínio: function x( ){return 4};
+- Reinaldo: ok
+- Plínio: agora sua cabeça vai doer
+- Reinaldo: chalenge acept
+- Plínio: function x( ){return 4};
 beleza?
 se eu executar
 x()
 retorna quanto?
-Reinaldo: x
-Plínio: function x( ){return 4};
+- Reinaldo: x
+- Plínio: function x( ){return 4};
 x retorna quanto?
 ou o que
 zzz...
 Sent at 3:33 PM on Friday
-Reinaldo: x retorna 4?
-Plínio:
+- Reinaldo: x retorna 4?
+- Plínio:
 (16:07:47) Plínio Balduino: isso
 facil, nao?
-Reinaldo: então, era o que imaginava
-Plínio: e se eu escrever somente
+- Reinaldo: então, era o que imaginava
+- Plínio: e se eu escrever somente
 x;
 retorna o que?
-Reinaldo: setar o valor de entrada da função internamente nessa função
+- Reinaldo: setar o valor de entrada da função internamente nessa função
 retorna x
-Plínio: retorna uma função
+- Plínio: retorna uma função
 um objeto do tipo 'function'
 Reinaldo: pq ele ta setado ali
 Plínio: se vc digitar isso no console, vai aparecer
@@ -104,10 +104,10 @@ x;
 x();
 => 4
 Sent at 3:41 PM on Friday
-Reinaldo: entendi
+-Reinaldo: entendi
 x é o nome da função que seta internamente 4 como X
 Sent at 3:45 PM on Friday
-Plínio: na verdade
+-Plínio: na verdade
 x é a variável que contem uma função
 function x(){return 4};
 
@@ -115,34 +115,34 @@ function x(){return 4};
 
 var x = function(){return 4};
 entendeu?
-function é um valor como qualquer outro
+> function é um valor como qualquer outro
 como se fosse um numero, um array, um boolean
 var y = 3;
-Reinaldo: dentro da var tem uma function?
+- Reinaldo: dentro da var tem uma function?
 pqp
 pqp
 Plínio: hehehe
-Reinaldo: essa foi foda
+- Reinaldo: essa foi foda
 pqp
-Plínio: lembra do começo da conversa
+- Plínio: lembra do começo da conversa
 onde (4) == 4 ?
-Reinaldo: sim
-Plínio: se vc
-(16:07:47) Plínio Balduino: fizer
-var x = function(a){return a * 2};
-sabendo que (blah) retorna blah
-entao
-(x) retorna uma function, certo?
-Reinaldo: sim
-Plínio: então
-(x)(2);
-retorna 4
-certo?
+- Reinaldo: sim
+- Plínio: se vc
+> (16:07:47) Plínio Balduino: fizer
+> var x = function(a){return a * 2};
+> sabendo que (blah) retorna blah
+> entao
+> (x) retorna uma function, certo?
+- Reinaldo: sim
+- Plínio: então
+> (x)(2);
+- retorna 4
+- certo?
 - Reinaldo: ºoº
 vc atribui 2 a função dentro de x
-Plínio: exatamente
-vamos de novo
-function x(a){return a * 2};
+- Plínio: exatamente
+> vamos de novo
+> function x(a){return a * 2};
 
 x(2) é 4, certo?
 - Reinaldo: ok
@@ -170,27 +170,27 @@ então
 sim
 - Plínio: se (x)(2) == 4
 e x contem uma função
-Reinaldo: =
+- Reinaldo: =
 diferente
-Plínio: pq nao fazer assim:
-(function(a){return a * 2})(2)
-(16:07:47) Plínio Balduino: == 4 ?
+- Plínio: pq nao fazer assim:
+> (function(a){return a * 2})(2)
+≥ (16:07:47) Plínio Balduino: == 4 ?
 Reinaldo: (x)(2) == 4?
 Plínio: isso
-Reinaldo: em vez de setar essa função a x
+- Reinaldo: em vez de setar essa função a x
 você cria ela ja comparando sem o x
-Plínio: exatamente
+- Plínio: exatamente
 crio uma função anonima
 função anonima é a que não é atribuida a variavel nenhum
 ela nao ganha um nome
-Sent at 4:06 PM on Friday
-Plínio: entendeu?
-Reinaldo: sim
-Plínio: louco, nao?
-Reinaldo: eu como um leigo estou me perguntando... o pessoal que programa js no dia a dia, sabe disso?
-Plínio: nao
-Reinaldo: então vc acabou de fazer alguns slides pra amanhã... parabens
-Plínio: hehehe
-Reinaldo: mt foda
+> Sent at 4:06 PM on Friday
+- Plínio: entendeu?
+- Reinaldo: sim
+- Plínio: louco, nao?
+- Reinaldo: eu como um leigo estou me perguntando... o pessoal que programa js no dia a dia, sabe disso?
+- Plínio: nao
+- Reinaldo: então vc acabou de fazer alguns slides pra amanhã... parabens
+- Plínio: hehehe
+- Reinaldo: mt foda
 
- Esqueleto da apresentação
+**Esqueleto da apresentação**
