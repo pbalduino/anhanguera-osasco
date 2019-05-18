@@ -49,31 +49,38 @@
 #
 
 **Plínio Balduino** 
+
 - explico high order functions em JavaScript e como isso é importante para quem usa jQuery
 
 #
 
 **Igor Hercowitz de França** 
+
 - boua
 
 #
 
 **Plínio Balduino** 
+
 - depois de alguns exemplos, mostro como *tudo* no jQuery usa programação funcional
 - eventos, composites e o cacete
 - será que em meia hora dá ou fica pouco?
 
 **Igor Hercowitz de França** 
+
 - acho que voce poderia fazer um comparativo do mesmo codigo usando prototype, OO e funcional (just for fun)
 
 **Plínio Balduino** 
+
 - e como seria isso?
 
 **Igor Hercowitz de França** 
+
 - sei la
 - ica a ideia ai :)
 
-*"Plínio Balduino** 
+**Plínio Balduino** 
+
 - me ajude a pensar nessa parte
 - seria baca
 - bacana
