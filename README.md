@@ -11,6 +11,8 @@
 
  <br>
 
+#
+
 **Igor Hercowitz de França** :)
 
 <br>
@@ -30,6 +32,8 @@
  - com um equivalente em Scheme
  
 <br>
+
+#
 
 **Igor Hercowitz de França** :D
 
