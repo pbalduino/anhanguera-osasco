@@ -1,9 +1,9 @@
- **Ideia original**
+### Ideia original
 
  **Plínio Balduino**
  - pensei em fazer assim.
  - começo contando muito rapidamente a historia do JS
- - Plínio Balduino: e na sequencia a definição do JS: que é uma linguagem prototipada, orientada a objetos e funcional
+ - e na sequencia a definição do JS: que é uma linguagem prototipada, orientada a objetos e funcional
  - Igor Hercowitz de França: :)
  - Plínio Balduino: mostro o que é uma linguagem prototipada
  - Plínio Balduino: e um exemplo em self, que é um dialeto de smalltalk
