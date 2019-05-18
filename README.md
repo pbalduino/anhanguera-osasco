@@ -10,6 +10,7 @@
  <br>
 
 **Igor Hercowitz de França** :)
+<br>
 
 **Plínio Balduino**
  - mostro o que é uma linguagem prototipada
@@ -30,23 +31,36 @@
 **Plínio Balduino** 
  - e junto o funcional àquele objeto usado nos exemplos anteriores
 
+#
+
 **Igor Hercowitz de França** maneiro :D
 
 #
 
 **Igor Hercowitz de França** quero ver essa apresentacao depois :D
 
+#
+
 **Plínio Balduino** 
 - explico high order functions em JavaScript e como isso é importante para quem usa jQuery
 
+#
+
 **Igor Hercowitz de França** boua
+
+#
 
 **Plínio Balduino** depois de alguns exemplos, mostro como *tudo* no jQuery usa programação funcional
 
+#
+
 **Plínio Balduino** eventos, composites e o cacete
- - **Plínio Balduino** será que em meia hora dá ou fica pouco?
- - **Igor Hercowitz de França** acho que voce poderia fazer um comparativo do mesmo codigo usando prototype, OO e funcional (just for fun)
- - **Plínio Balduino** e como seria isso?
+
+**Plínio Balduino** será que em meia hora dá ou fica pouco?
+
+**Igor Hercowitz de França** acho que voce poderia fazer um comparativo do mesmo codigo usando prototype, OO e funcional (just for fun)
+
+**Plínio Balduino** e como seria isso?
  - Igor Hercowitz de França** sei la
  - Igor Hercowitz de França** fica a ideia ai :)
  - Plínio Balduino** me ajude a pensar nessa parte
