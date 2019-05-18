@@ -32,12 +32,13 @@
  - Igor Hercowitz de França: nao sei se daria para demonstrar c um codigo bobo
  - Igor Hercowitz de França: mas mostrar a performance entre dos 3 tipos de codigo
 
-Outro diálogo:
-Plínio: foda né?
+### Outro diálogo
+
+- Plínio: foda né?
 ó
 2 retorna o que?
-Reinaldo: 4
-Plínio: nao
+- Reinaldo: 4
+- Plínio: nao
 vc tem essa linha de código:
 2
 essa linha te retorna que valor?
@@ -137,37 +138,37 @@ Plínio: então
 (x)(2);
 retorna 4
 certo?
-Reinaldo: ºoº
+- Reinaldo: ºoº
 vc atribui 2 a função dentro de x
 Plínio: exatamente
 vamos de novo
 function x(a){return a * 2};
 
 x(2) é 4, certo?
-Reinaldo: ok
-Plínio: function x(a){return a * 2};
+- Reinaldo: ok
+- Plínio: function x(a){return a * 2};
 é o mesmo que
 var x = function(a){return a * 2};
 certo?
-Reinaldo: a segunda faz mais sentido mas deve ser sim
-Plínio: beleza
+- Reinaldo: a segunda faz mais sentido mas deve ser sim
+- Plínio: beleza
 são a mesma coisa
 então, de acordo com a segunda forma, se fizermos
 x(2) é 4, certo?
 Reinaldo: sim
-Plínio: x(2) == 4 do primeiro jeito
+- Plínio: x(2) == 4 do primeiro jeito
 x(2) == 4 do segundo jeito
-Reinaldo: nossa
+- Reinaldo: nossa
 funcção dentro de var e foda
-Plínio: então
+- Plínio: então
 se (x) == x
 então
-(x)(2) == 4
-certo?
-(x)(2) == x(2)
-Reinaldo: ok
+> (x)(2) == 4
+> certo?
+> (x)(2) == x(2)
+- Reinaldo: ok
 sim
-Plínio: se (x)(2) == 4
+- Plínio: se (x)(2) == 4
 e x contem uma função
 Reinaldo: =
 diferente
