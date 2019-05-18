@@ -17,9 +17,17 @@
  - e mostro um exemplo usando prototipos e OO
  - e mostro um exemplo de código funcional em JS
  - com um equivalente em Scheme
- - Igor Hercowitz de França: :D
- - Plínio Balduino: e junto o funcional àquele objeto usado nos exemplos anteriores
- - Igor Hercowitz de França: maneiro :D
+ <br>
+
+**Igor Hercowitz de França** :D
+
+<br> 
+
+**Plínio Balduino** 
+ - e junto o funcional àquele objeto usado nos exemplos anteriores
+
+**Igor Hercowitz de França** maneiro :D
+
  - Igor Hercowitz de França: quero ver essa apresentacao depois :D
  - Plínio Balduino: explico high order functions em JavaScript e como isso é importante para quem usa jQuery
  - Igor Hercowitz de França: boua
