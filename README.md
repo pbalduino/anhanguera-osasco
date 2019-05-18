@@ -79,14 +79,13 @@ se eu executar
 x()
 retorna quanto?
 - Reinaldo: x
-- Plínio: function x( ){return 4};
-x retorna quanto?
-ou o que
-zzz...
+- Plínio: ``function x( ){return 4};
+x`` retorna quanto? ou o que zzz...
 Sent at 3:33 PM on Friday
 - Reinaldo: x retorna 4?
 - Plínio:
-(16:07:47) Plínio Balduino: isso
+(16:07:47) 
+- Plínio Balduino: isso
 facil, nao?
 - Reinaldo: então, era o que imaginava
 - Plínio: e se eu escrever somente
@@ -134,17 +133,11 @@ onde (4) == 4 ?
 > entao
 > (x) retorna uma function, certo?
 - Reinaldo: sim
-- Plínio: então
-> (x)(2);
+- Plínio: então ``(x)(2);``
 - retorna 4
 - certo?
-- Reinaldo: ºoº
-vc atribui 2 a função dentro de x
-- Plínio: exatamente
-> vamos de novo
-> function x(a){return a * 2};
-
-x(2) é 4, certo?
+- Reinaldo: ºoº... vc atribui 2 a função dentro de x
+- Plínio: exatamente... vamos de novo ``function x(a){return a * 2};``, ``x(2)`` é 4, certo?
 - Reinaldo: ok
 - Plínio: function x(a){return a * 2};
 é o mesmo que
@@ -183,7 +176,7 @@ você cria ela ja comparando sem o x
 crio uma função anonima
 função anonima é a que não é atribuida a variavel nenhum
 ela nao ganha um nome
-> Sent at 4:06 PM on Friday
+Sent at 4:06 PM on Friday
 - Plínio: entendeu?
 - Reinaldo: sim
 - Plínio: louco, nao?
